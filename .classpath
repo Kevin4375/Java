@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Others/|DataStructures/Graphs/|Misc/|DataStructures/Trees/|Others/RestrictedTowerOfHanoi/Main/" kind="src" path=""/>
+	<classpathentry kind="src" path="DataStructures/Graphs"/>
+	<classpathentry kind="src" path="DataStructures/Trees"/>
+	<classpathentry kind="src" path="Misc"/>
+	<classpathentry excluding="RestrictedTowerOfHanoi/Main/" kind="src" path="Others"/>
+	<classpathentry kind="src" path="Others/RestrictedTowerOfHanoi/Main"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

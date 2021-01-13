@@ -1,4 +1,4 @@
-package DataStructures.Graphs;
+package A_Star;
 
 /**
  * A Java program for Prim's Minimum Spanning Tree (MST) algorithm. adjacency matrix representation

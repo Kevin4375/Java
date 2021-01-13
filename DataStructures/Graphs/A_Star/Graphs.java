@@ -1,4 +1,4 @@
-package DataStructures.Graphs;
+package A_Star;
 
 import java.util.ArrayList;
 
